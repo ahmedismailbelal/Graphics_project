@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653943767 source:c:\users\me\desktop\pro\main.cpp
+	<ALL.h>
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+
+1653948853 source:c:\users\me\desktop\pro\src\all.cpp
+	"ALL.h"
+	<cmath>
+	<windows.h>
+	<tchar.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<stack>
+	<list>
+	<algorithm>
+	<gl\GL.h>
+	<gl\GLu.h>
+
+1653948715 c:\users\me\desktop\pro\include\all.h
+	<windows.h>
+	<tchar.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<stack>
+	<list>
+	<algorithm>
+
